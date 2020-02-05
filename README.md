@@ -1,7 +1,7 @@
 # react-router-poketimes
 This is a Pokemon reference app built with react. It allows users to navigate three pages: home, contact and about.
 
-The home page is built with an open API(JSONPlaceholder), where it stores several posts. Each time when users click a post, it will link to more details of the post.
+The home page calls an open API(JSONPlaceholder) to store 10 posts. Each time when users click a post, it will link to more details of the post.
 
 
 ## Installment
@@ -17,5 +17,7 @@ cd my-poketimes
 npm install react-route-dom
 npm install axios
 ```
+
+## Something missing?
 
 

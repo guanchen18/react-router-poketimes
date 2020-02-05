@@ -4,20 +4,15 @@ This is a Pokemon reference app built with react. It allows users to navigate th
 The home page calls an open API(JSONPlaceholder) to store 10 posts. Each time when users click a post, it will link to more details of the post.
 
 
-## Installment
+## Install
 ```
-# Built the App
-git clone https://github.com/guanchen18/know-weather-react-app
-cd my-poketimes
+git clone https://github.com/guanchen18/react-router-poketimes
 npm install
 npm start
-
-# Install the following packages
-cd my-poketimes
-npm install react-route-dom
-npm install axios
 ```
 
+## Access the app
+From your web browser, go to the link
+http://localhost:3000/
+
 ## Something missing?
-
-

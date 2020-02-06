@@ -15,4 +15,5 @@ npm start
 ## Access the local app
 From your web browser, go to the link: http://localhost:3000/
 
-## Something missing?
+## Something to update?
+I am about to add some more content to about and contact page.

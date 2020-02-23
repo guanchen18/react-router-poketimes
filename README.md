@@ -3,7 +3,7 @@ This is a Pokemon reference app built with react. It allows users to navigate th
 
 The home page calls an open API(JSONPlaceholder) to store 10 posts. Each time when users click a post, it will link to more details of the post.
 
-My app url: https://master.d3o2w9ljqjg3xg.amplifyapp.com 
+My app url: https://mypoketimes.netlify.com/ 
 
 ## Install your own app
 ```
